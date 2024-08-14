@@ -16,12 +16,12 @@ export function Hero() {
     "<span class='text-emerald-500'>NTT</span>"
   );
   const description = t(
-    "The islands of East Nusa Tenggara hold captivating natural charm and rich culture. Explore the unique and unforgettable attractions of the islands in NTT. There you will find spectacular natural wonders harmoniously combined with cultural heritage full of local wisdom."
+    "The lakeside city of Kisumu hold captivating natural charm and rich culture. Explore the unique and unforgettable attractions of The lakeside city in NTT. There you will find spectacular natural wonders harmoniously combined with cultural heritage full of local wisdom."
   );
   const formattedDescription = description
     .replace(
-      "East Nusa Tenggara",
-      "<span class='text-emerald-500 font-bold'>East Nusa Tenggara</span>"
+      "Kisumu",
+      "<span class='text-emerald-500 font-bold'>Kisumu</span>"
     )
     .replace(
       "Nusa Tenggara Timur",

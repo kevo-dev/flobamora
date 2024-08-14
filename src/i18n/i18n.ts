@@ -4,8 +4,8 @@ import { initReactI18next } from "react-i18next"
 import idJSON from "./id.json"
 
 i18n.use(initReactI18next).init({
-    resources: {
-        id: { ...idJSON }
-    },
-    lng: "id",
+    // resources: {
+    //    id: { ...idJSON }
+    // },
+    // lng: "id",
 })

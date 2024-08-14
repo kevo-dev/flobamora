@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Flobamora!<img src="https://raw.githubusercontent.com/send0moka/send0moka/main/wave.gif" width="26"></h1>
+<h1 align="center">Welcome to Lolwe Lake Tours!<img src="https://raw.githubusercontent.com/send0moka/send0moka/main/wave.gif" width="26"></h1>
 
-[![](/public/images/demo.gif)](https://flobamora.vercel.app)
+[![](/public/images/demo.gif)](https://Lolwe Lake Tours.vercel.app)
 
 <p align="center">
   <a href="#about">About</a> •
@@ -9,11 +9,11 @@
   <a href="#license">License</a>
 </p>
 
-[![](https://raw.githubusercontent.com/amertadev/analista101/main/public/assets/demo-button.svg)](https://flobamora.vercel.app)
+[![](https://raw.githubusercontent.com/amertadev/analista101/main/public/assets/demo-button.svg)](https://Lolwe Lake Tours.vercel.app)
 
 <h2 id="about">🔍 About</h2>
 
-Flobamora is a website that aims to promote and showcase the diverse and captivating tourist attractions and experiences found in the province of East Nusa Tenggara, Indonesia. Flobamora stands for Flores, Sumba, Timor, and Alor.
+Lolwe Lake Tours is a website that aims to promote and showcase the diverse and captivating tourist attractions and experiences found in Kisumu Kenya .
 
 <img src="public/svgs/tech.svg" height="24">
 
@@ -39,11 +39,11 @@ To clone the repository, follow these steps:
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
    ```
-   git clone https://github.com/send0moka/flobamora.git
+   git clone https://github.com/send0moka/Lolwe Lake Tours.git
    ```
 4. After the cloning process is complete, navigate to the cloned repository directory:
    ```
-   cd flobamora
+   cd Lolwe Lake Tours
    ```
 5. Now, you are ready to work on the project. To install dependencies, run:
    ```
